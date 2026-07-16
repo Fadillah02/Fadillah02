@@ -9,6 +9,7 @@
 **Spesialis 失業** — *Unemployment Specialist* 😄
 📍 Universitas Nahdlatul Ulama Surabaya
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-fadillah02.github.io-22d3ee?style=for-the-badge&logo=vercel&logoColor=white)](https://fadillah02.github.io/fadill-portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-Fadillah02-f5e300?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Fadillah02)
 
 </div>
