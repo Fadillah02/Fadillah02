@@ -33,14 +33,8 @@
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Fadillah02&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=ffffff&text_color=888888&ring_color=ffffff&hide=contribs">
-    <img src="https://github-readme-stats.vercel.app/api?username=Fadillah02&show_icons=true&theme=default&hide_border=true" width="48%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Fadillah02&theme=dark&hide_border=true&background=0a0a0a&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fadillah02&theme=default&hide_border=true" width="48%" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fadillah02&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=ffffff&text_color=888888" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fadillah02&theme=dark&hide_border=true&background=0a0a0a&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555" width="48%" />
 </div>
 
 <br>
