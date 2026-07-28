@@ -33,11 +33,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fadillah02&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=ffffff&text_color=888888" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fadillah02&theme=dark&hide_border=true&background=0a0a0a&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555" width="48%" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadillah02&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=888888" width="38%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Fadillah02&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" width="58%" />
+  <img src="https://img.shields.io/github/followers/Fadillah02?style=for-the-badge&logo=github&label=Followers&labelColor=0a0a0a&color=ffffff" />
+  <img src="https://img.shields.io/github/last-commit/Fadillah02/fadill-portfolio?style=for-the-badge&logo=github&label=Latest%20Commit&labelColor=0a0a0a&color=ffffff" />
+  <img src="https://img.shields.io/github/stars/Fadillah02/fadill-portfolio?style=for-the-badge&logo=github&label=Stars&labelColor=0a0a0a&color=ffffff" />
 </div>
 
 <br>
