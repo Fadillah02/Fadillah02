@@ -11,7 +11,7 @@
   <a href="https://github.com/Fadillah02">
     <img src="https://img.shields.io/badge/@Fadillah02-000?style=for-the-badge&logo=github&logoColor=fff&labelColor=222" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/fadillah-fadillah-3ba6312b0/">
+  <a href="https://www.linkedin.com/in/mochammad-fadillah-irwanto-2575b73aa/">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=222" alt="LinkedIn" />
   </a>
 </p>
