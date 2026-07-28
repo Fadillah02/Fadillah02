@@ -1,44 +1,50 @@
 <div align="center">
-
-<img src="profile-banner.svg" alt="Fadillah - animated profile banner" width="100%" />
-
-<br/>
-
-# Fadillah
-
-**Spesialis 失業** — *Unemployment Specialist* 😄
-📍 Universitas Nahdlatul Ulama Surabaya
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-fadillah02.github.io-22d3ee?style=for-the-badge)](https://fadillah02.github.io/fadill-portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-Fadillah02-f5e300?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Fadillah02)
-
+  <img src="profile-banner.svg" alt="Fadillah banner" width="100%" />
 </div>
 
----
+<br>
 
-### `> whoami`
+<p align="center">
+  <a href="https://fadillah02.github.io/fadill-portfolio/">
+    <img src="https://img.shields.io/badge/AI%20Creator%20Studio-000?style=for-the-badge&logo=astro&logoColor=fff&labelColor=222" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Fadillah02">
+    <img src="https://img.shields.io/badge/@Fadillah02-000?style=for-the-badge&logo=github&logoColor=fff&labelColor=222" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/fadillah-fadillah-3ba6312b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=222" alt="LinkedIn" />
+  </a>
+</p>
+
+---
 
 ```txt
-Name       : Fadillah
-Role       : Spesialis 失業 (Unemployment Specialist)
-Campus     : Universitas Nahdlatul Ulama Surabaya
-GitHub     : @Fadillah02
-Skill      : 弁護士（様々な意味での失業者）
-Status     : compiling motivation...
+> whoami
+╭──────────────────────────────────────────╮
+│  Name       :  Fadillah                   │
+│  Role       :  Spesialis 失業             │
+│  Campus     :  UNUSA Surabaya             │
+│  GitHub     :  @Fadillah02                │
+│  Skill      :  弁護士（失業者）           │
+│  Status     :  compiling motivation...    │
+╰──────────────────────────────────────────╯
 ```
 
-### `> stats.log`
+<br>
 
 <div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fadillah02&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=f5e300&icon_color=f5e300&text_color=ffffff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fadillah02&theme=radical&hide_border=true&background=000000&stroke=f5e300&ring=f5e300&fire=f5e300&currStreakLabel=f5e300)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Fadillah02&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=ffffff&text_color=888888&ring_color=ffffff&hide=contribs">
+    <img src="https://github-readme-stats.vercel.app/api?username=Fadillah02&show_icons=true&theme=default&hide_border=true" width="48%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Fadillah02&theme=dark&hide_border=true&background=0a0a0a&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fadillah02&theme=default&hide_border=true" width="48%" />
+  </picture>
 </div>
 
----
+<br>
 
 <div align="center">
-<sub>AI AGENTS / WEB3 TRUST / AUTONOMOUS SYSTEMS</sub>
+  <sub><strong>AI AGENTS · AUTONOMOUS SYSTEMS · WEB3 TRUST</strong></sub>
 </div>
