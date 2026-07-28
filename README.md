@@ -26,17 +26,18 @@
 
 ---
 
-```txt
-> whoami
-╭──────────────────────────────────────────╮
-│  Name       :  Fadillah                   │
-│  Role       :  Spesialis 失業             │
-│  Campus     :  UNUSA Surabaya             │
-│  GitHub     :  @Fadillah02                │
-│  Skill      :  弁護士（失業者）           │
-│  Status     :  compiling motivation...    │
-╰──────────────────────────────────────────╯
-```
+<div align="center">
+  <pre>
+╭─────────────────────────────────────╮
+│  <strong>Name</strong>   : Fadillah                   │
+│  <strong>Role</strong>   : Spesialis 失業             │
+│  <strong>Campus</strong> : UNUSA Surabaya             │
+│  <strong>GitHub</strong> : @Fadillah02                │
+│  <strong>Skill</strong>  : 弁護士（失業者）           │
+│  <strong>Status</strong> : compiling motivation... <sub>▊</sub> │
+╰─────────────────────────────────────╯
+  </pre>
+</div>
 
 <br>
 
@@ -67,22 +68,7 @@
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in">
-          <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=light&animation=grow_out_in" alt="Random quote" width="95%" />
-        </picture>
-      </td>
-      <td width="50%" align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Fadillah02&theme=github-dark&hide_border=true&area=true&bg_color=0a0a0a&color=ffffff&line=ffffff&point=888888&area_color=333333">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fadillah02&theme=github-light&hide_border=true&area=true" alt="Activity graph" width="100%" />
-        </picture>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Quote-%22The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.%22-0a0a0a?style=for-the-badge&labelColor=222" />
 </div>
 
 <br>
