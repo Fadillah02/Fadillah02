@@ -41,5 +41,14 @@
 <br>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fadillah02/Fadillah02/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Fadillah02/Fadillah02/output/snake.svg" alt="Snake animation" width="90%" />
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
   <sub>🤖 · ⚙️ · 🔗</sub>
 </div>
