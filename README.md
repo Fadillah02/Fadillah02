@@ -68,7 +68,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Quote-%22The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.%22-0a0a0a?style=for-the-badge&labelColor=222" />
+  <img src="https://ghchart.rshah.org/Fadillah02" alt="Contribution chart" width="90%" />
 </div>
 
 <br>
