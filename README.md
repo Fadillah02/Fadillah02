@@ -46,5 +46,5 @@
 <br>
 
 <div align="center">
-  <sub><strong>AI AGENTS · AUTONOMOUS SYSTEMS · WEB3 TRUST</strong></sub>
+  <sub>🤖 · ⚙️ · 🔗</sub>
 </div>
