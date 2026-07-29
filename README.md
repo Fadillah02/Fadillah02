@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <a href="https://fadillah-portofolio.netlify.app/">
+  <a href="https://fadill-portfolio.pages.dev/">
     <img src="https://img.shields.io/badge/AI%20Creator%20Studio-000?style=for-the-badge&logo=astro&logoColor=fff&labelColor=222" alt="Portfolio" />
   </a>
   <a href="https://github.com/Fadillah02">
